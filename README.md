@@ -3,7 +3,7 @@ HomeoNorm
 
 normalize a set of homeologous read counts from different libraries
 
-#Simon Renny-Byfield, Iowa State University September 2014
+Simon Renny-Byfield, Iowa State University September 2014
 
 A function to normalize libraries with homeologous counts.
 The script assumes that each individual library has been 
